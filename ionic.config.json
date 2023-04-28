@@ -1,0 +1,7 @@
+{
+  "name": "ionic_plugin_existing_show_paris",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

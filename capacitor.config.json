@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic_plugin_existing_show_paris",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
